@@ -1,0 +1,5 @@
+#Python version:
+python>=3.8
+
+# No external packages required as the chatbot uses only standard libraries:
+# csv, string, os
